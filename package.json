@@ -28,11 +28,10 @@
     "postcss-url": "^8.0.0"
   },
   "scripts": {
-    "start": "slate-tools start",
+    "start": "slate-tools start ",
     "watch": "slate-tools start --skipFirstDeploy",
     "build": "slate-tools build",
     "deploy": "slate-tools build && slate-tools deploy",
-    "deploy:prod": "slate-tools build && slate-tools deploy --env=dev",
     "deploy:prod": "slate-tools build && slate-tools deploy --env=prod ",
     "zip": "slate-tools build && slate-tools zip"
   },

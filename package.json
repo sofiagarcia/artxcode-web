@@ -2,7 +2,7 @@
   "name": "slate-react-starter",
   "version": "1.0.0",
   "private": true,
-  "author": "Shopify Inc., Liron Navon",
+  "author": "Shopify Inc., Liron Navon, Sofia Garcia, Gabriella Hernandez Lebron",
   "description": "A barebones, Slate compatible, starting point for developing Shopify themes with react.",
   "keywords": [
     "shopify",

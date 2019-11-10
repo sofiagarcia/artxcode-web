@@ -9,6 +9,7 @@ class ExampleComponent extends Component {
         const { shopname } = this.props;
         return (
             <div>
+                <h1> Hello Test </h1>
                 Store name is: {shopname}
             </div>
         );
